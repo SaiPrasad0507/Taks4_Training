@@ -1,7 +1,7 @@
 # 🐍 Day 4 – Object-Oriented Programming (OOP) in Python
 
 ## 📖 Overview
-This assignment demonstrates the core concepts of Object-Oriented Programming (OOP) in Python through practical examples and mini projects. The programs showcase how OOP helps create reusable, scalable, and organized code.
+This assisment demonstrates the core concepts of Object-Oriented Programming (OOP) in Python through practical examples and mini projects. The programs showcase how OOP helps create reusable, scalable, and organized code.
 
 ---
 
